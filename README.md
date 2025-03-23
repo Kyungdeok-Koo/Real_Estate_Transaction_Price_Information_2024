@@ -29,7 +29,7 @@
 ##### 데이터셋 안에 있는 Features 별로 상관관계 분석 시각
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/2025-03-23%2015%3B40%3B54.PNG)
 <br>
-##### 텍스트 정규화 ISSUE 진행 과정 및 아파트 브랜드별 선별기준 및 인사이트 도
+##### 텍스트 정규화 ISSUE 진행 과정 및 아파트 브랜드별 선별기준 및 인사이트 도출 
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/2025-03-23%2015%3B32%3B57.PNG)
 <br>
 ##### One-Hot-Encoding
@@ -38,7 +38,7 @@
 ##### Standard Scaler 및 Log Transformation
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/2025-03-23%2015%3B33%3B43.PNG)
 <br>
-##### Log Transformation 별 RMSE 성능평가 분석 시각
+##### Log Transformation 별 RMSE 성능평가 분석 시각화 
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/2025-03-23%2015%3B33%3B59.PNG)
 <br>
 ##### Machine Learning : 회귀트리 XGBoost 모델
