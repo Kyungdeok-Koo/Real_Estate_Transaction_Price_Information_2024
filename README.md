@@ -26,8 +26,8 @@
 <br>
 
 ## 주요 기능
-##### 데이터셋 안에 있는 Features 별로 상관관계 분석 시각
-![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/2025-03-23%2015%3B40%3B54.PNG)
+##### 데이터셋 안에 있는 Features 별로 상관관계 분석 시각화 
+![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/2025-03-23%2015%3B32%3B09.PNG)
 <br>
 ##### 텍스트 정규화 ISSUE 진행 과정 및 아파트 브랜드별 선별기준 및 인사이트 도출 
 ![image](https://github.com/Kyungdeok-Koo/first-repository/blob/main/Aiffel_DataScientist_3rd/2025-03-23%2015%3B32%3B57.PNG)
