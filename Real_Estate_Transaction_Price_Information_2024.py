@@ -1,3 +1,20 @@
+import chardet
+import matplotlib
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import scipy.stats import skew
+
+from google.colab import drive
+from konlpy.tag import Okt
+from matplotlib import font_manager
+from sklearn.linear_model import Lasso, LinearRegression, Ridge
+from sklearn.metrics import make_scorer, mean_squared_error
+from sklearn.model_selection import GridSearchCV, cross_val_score, train_test_split
+from sklearn.preprocessing import StandardScaler
+from xgboost import XGBRegressor
+
 {
   "nbformat": 4,
   "nbformat_minor": 0,
